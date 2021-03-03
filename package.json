@@ -14,7 +14,7 @@
     "postcss-load-config": "^2.1.0",
     "postcss-nested": "^4.2.1",
     "postcss-preset-env": "^6.7.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "rollup": "^1.20.0",
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-svelte": "^5.2.1",
